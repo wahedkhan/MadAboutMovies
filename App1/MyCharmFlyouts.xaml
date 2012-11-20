@@ -1,0 +1,38 @@
+﻿<UserControl
+    x:Class="MadAboutMovies.MyCharmFlyouts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MadAboutMovies"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:cfo="using:CharmFlyoutLibrary"
+   mc:Ignorable="d">
+    <Grid>
+        <cfo:CharmFlyout
+           x:Name="cfoAbout"
+           Heading="About Us"
+           HeadingBackgroundBrush="#FF050F51">
+            <StackPanel>
+                <TextBlock
+                   FontSize="16">Mad About Movies</TextBlock>
+                <TextBlock
+                   FontSize="16">For support:</TextBlock>
+                <HyperlinkButton
+                   Click="OnMailTo">www.tekpill.com/About</HyperlinkButton>
+            </StackPanel>
+        </cfo:CharmFlyout>
+        
+        <cfo:CharmFlyout
+           x:Name="cfoPrivacy"
+           Heading="Privacy"
+           HeadingBackgroundBrush="#FF050F51">
+            <StackPanel>
+                <TextBlock
+                   FontSize="16">Read Privacy policy Online</TextBlock>
+               
+                <HyperlinkButton
+                   Click="OnPrivacyClick">Click Here</HyperlinkButton>
+            </StackPanel>
+        </cfo:CharmFlyout>
+    </Grid>
+</UserControl>

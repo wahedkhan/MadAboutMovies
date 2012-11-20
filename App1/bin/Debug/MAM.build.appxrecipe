@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TEKPILLBOX</Machine>
+    <WindowsUser>tekpill</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM.png">
+      <PackagePath>Assets\MAM.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM_150.png">
+      <PackagePath>Assets\MAM_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM_30.png">
+      <PackagePath>Assets\MAM_30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM_310.png">
+      <PackagePath>Assets\MAM_310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\mam_50.png">
+      <PackagePath>Assets\mam_50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TEKPILLBOX</Machine>
+    <WindowsUser>tekpill</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7C4770A376D544A3E3AE758EEA18AE8C2E8C72F06E44488F8BC6E763A9A030FE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3291fd10-4fac-4b97-bd27-25f77eb38ca9_1.0.0.0_neutral__sxnn2m22k9xpp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3291fd10-4fac-4b97-bd27-25f77eb38ca9_sxnn2m22k9xpp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3291fd10-4fac-4b97-bd27-25f77eb38ca9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Houssem Dellai</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T14:32:43.249</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2012-11-18T14:31:00.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+      <Modified>2012-11-18T14:31:00.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+      <Modified>2012-11-18T13:56:01.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM.png">
+      <PackagePath>Assets\MAM.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T14:30:05.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM_150.png">
+      <PackagePath>Assets\MAM_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T14:30:05.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM_30.png">
+      <PackagePath>Assets\MAM_30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T14:30:05.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\MAM_310.png">
+      <PackagePath>Assets\MAM_310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T14:30:05.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\Assets\mam_50.png">
+      <PackagePath>Assets\mam_50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T14:30:05.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-18T13:44:32.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-11-18T13:41:01.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-18T14:06:54.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\CodeHorror\GitHub\MadAboutMovies\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-18T14:32:43.182</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

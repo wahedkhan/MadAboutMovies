@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WAABDU</Machine>
+    <WindowsUser>waabdu</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\packages\CharmFlyout.1.0.11\lib\winrt45\CharmFlyoutLibrary.dll">
+      <PackagePath>CharmFlyoutLibrary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\Assets\MAM.png">
+      <PackagePath>Assets\MAM.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\Assets\MAM_150.png">
+      <PackagePath>Assets\MAM_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\Assets\MAM_30.png">
+      <PackagePath>Assets\MAM_30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\Assets\MAM_310.png">
+      <PackagePath>Assets\MAM_310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\Assets\mam_50.png">
+      <PackagePath>Assets\mam_50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\MyCharmFlyouts.xaml">
+      <PackagePath>MyCharmFlyouts.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\packages\CharmFlyout.1.0.11\lib\winrt45\CharmFlyoutLibrary\Themes\Generic.xaml">
+      <PackagePath>CharmFlyoutLibrary\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\waabdu\Desktop\MadAboutMovies\App1\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
